@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 22,
-    "active_num": 14,
-    "error_num": 8,
+    "active_num": 15,
+    "error_num": 7,
     "article_num": 54,
-    "last_updated_time": "2026-05-06 16:28:44"
+    "last_updated_time": "2026-05-06 22:13:57"
   },
   "article_data": [
     {
@@ -93,7 +93,7 @@
       "title": "手把手教你跑一个二次元AI老婆！另附自然语言生图教程！",
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "link": "https://2x.nz/posts/ai-wife/",
+      "link": "https://blog.2x.nz/posts/ai-wife/",
       "author": "AcoFork Blog",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
@@ -102,7 +102,7 @@
       "title": "手把手教你跑一个二次元AI老婆！另附自然语言生图教程！",
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "link": "https://blog.2x.nz/posts/ai-wife/",
+      "link": "https://2x.nz/posts/ai-wife/",
       "author": "AcoFork Blog",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
@@ -111,7 +111,7 @@
       "title": "网站全面升级为纯Svelte！好处都有啥？都踩了哪些坑？",
       "created": "2026-04-24",
       "updated": "2026-04-24",
-      "link": "https://2x.nz/posts/astro-to-svelte/",
+      "link": "https://blog.2x.nz/posts/astro-to-svelte/",
       "author": "AcoFork Blog",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
@@ -120,7 +120,7 @@
       "title": "网站全面升级为纯Svelte！好处都有啥？都踩了哪些坑？",
       "created": "2026-04-24",
       "updated": "2026-04-24",
-      "link": "https://blog.2x.nz/posts/astro-to-svelte/",
+      "link": "https://2x.nz/posts/astro-to-svelte/",
       "author": "AcoFork Blog",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
@@ -138,7 +138,7 @@
       "title": "俗话都说项目写久了会变成史山...今天我们来铲史...",
       "created": "2026-04-19",
       "updated": "2026-04-19",
-      "link": "https://2x.nz/posts/improve-dev-speed/",
+      "link": "https://blog.2x.nz/posts/improve-dev-speed/",
       "author": "AcoFork Blog",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
@@ -147,7 +147,7 @@
       "title": "俗话都说项目写久了会变成史山...今天我们来铲史...",
       "created": "2026-04-19",
       "updated": "2026-04-19",
-      "link": "https://blog.2x.nz/posts/improve-dev-speed/",
+      "link": "https://2x.nz/posts/improve-dev-speed/",
       "author": "AcoFork Blog",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
@@ -165,7 +165,7 @@
       "title": "将你的Linux硬盘映射到Windows？",
       "created": "2026-04-18",
       "updated": "2026-04-18",
-      "link": "https://2x.nz/posts/sshfs/",
+      "link": "https://blog.2x.nz/posts/sshfs/",
       "author": "AcoFork Blog",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
@@ -174,7 +174,7 @@
       "title": "将你的Linux硬盘映射到Windows？",
       "created": "2026-04-18",
       "updated": "2026-04-18",
-      "link": "https://blog.2x.nz/posts/sshfs/",
+      "link": "https://2x.nz/posts/sshfs/",
       "author": "AcoFork Blog",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
@@ -198,21 +198,21 @@
     },
     {
       "floor": 22,
-      "title": "让我们自建一个自己的CDN！",
-      "created": "2026-04-11",
-      "updated": "2026-04-11",
-      "link": "https://2x.nz/posts/self-host-cdn/",
-      "author": "AcoFork Blog",
-      "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
-    },
-    {
-      "floor": 23,
       "title": "优化实验室网络",
       "created": "2026-04-11",
       "updated": "2026-04-11",
       "link": "https://blog.hzchu.top/2026/opt-lab-net/",
       "author": "Thun888",
       "avatar": "https://blog.hzchu.top/img/avatar.webp"
+    },
+    {
+      "floor": 23,
+      "title": "让我们自建一个自己的CDN！",
+      "created": "2026-04-11",
+      "updated": "2026-04-11",
+      "link": "https://2x.nz/posts/self-host-cdn/",
+      "author": "AcoFork Blog",
+      "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
     },
     {
       "floor": 24,
