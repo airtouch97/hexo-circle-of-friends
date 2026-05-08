@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 22,
-    "active_num": 15,
-    "error_num": 7,
-    "article_num": 53,
-    "last_updated_time": "2026-05-08 05:59:59"
+    "active_num": 16,
+    "error_num": 6,
+    "article_num": 51,
+    "last_updated_time": "2026-05-08 10:58:12"
   },
   "article_data": [
     {
@@ -405,24 +405,6 @@
     },
     {
       "floor": 45,
-      "title": "如何在直播中让你的观众实时了解你在用什么软件？",
-      "created": "2026-03-08",
-      "updated": "2026-03-08",
-      "link": "https://2x.nz/posts/obs-realtime-process-name/",
-      "author": "AcoFork Blog",
-      "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
-    },
-    {
-      "floor": 46,
-      "title": "分享一个 Android Studio 简体中文汉化包",
-      "created": "2026-03-08",
-      "updated": "2026-03-08",
-      "link": "https://www.showby.top/archives/648",
-      "author": "小白の博客",
-      "avatar": "https://r2cfimg.showby.top/2024/09/19/66eb06a884fb9.jpg"
-    },
-    {
-      "floor": 47,
       "title": "推荐酷鸭数据主机",
       "created": "2026-02-25",
       "updated": "2026-05-07",
@@ -431,7 +413,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 48,
+      "floor": 46,
       "title": "129云-2026活动 8.8美国三网精品50M 只测不评 测试留档",
       "created": "2026-02-12",
       "updated": "2026-03-25",
@@ -440,7 +422,7 @@
       "avatar": "https://image.yeqing.net/i/2025/05/15/62868e67dff91285992985db0cce57d5.webp"
     },
     {
-      "floor": 49,
+      "floor": 47,
       "title": "Minecraft 生存服务器来啦「1.21.8 版」",
       "created": "2026-01-01",
       "updated": "2026-05-07",
@@ -449,7 +431,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 50,
+      "floor": 48,
       "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
       "created": "2025-12-08",
       "updated": "2026-05-07",
@@ -458,7 +440,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 51,
+      "floor": 49,
       "title": "DEB 和 RPM 有什么区别",
       "created": "2025-12-02",
       "updated": "2026-05-07",
@@ -467,7 +449,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 52,
+      "floor": 50,
       "title": "ima 任务模式邀请码分享",
       "created": "2025-11-26",
       "updated": "2026-05-07",
@@ -476,7 +458,7 @@
       "avatar": "https://cdn.dusays.com/favicon.ico"
     },
     {
-      "floor": 53,
+      "floor": 51,
       "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
       "created": "2025-11-20",
       "updated": "2026-04-03",
